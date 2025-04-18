@@ -1,0 +1,66 @@
+.hero {
+    background-color: rgb(9, 255, 0);
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    height: 110px;
+    width: 100%;
+    display: flex;               
+    justify-content: center;     
+    align-items: center;       
+}
+.Navbar {
+    background-color: rgb(212, 255, 0);
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    display: flex;               
+    justify-content: center;     
+    align-items: center;  
+}
+.exp {
+    background-color: rgb(0, 173, 253);
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    height: 160px;
+    width: 100%;
+    display: flex;               
+    justify-content: center;     
+    align-items: center;  
+}
+.foot {
+    background-color: rgb(212, 0, 255);
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    height: 80px;
+    width: 100%;
+    display: flex;               
+    justify-content: center;     
+    align-items: center;  
+    box-shadow:rgb(13, 0, 15)
+}
+.proj {
+    background-color: rgb(248, 78, 78);
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    height: 130px;
+    width: 100%;
+    display: flex;               
+    justify-content: center;     
+    align-items: center;  
+}
+.skill {
+    background-color: rgb(252, 160, 241);
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    height: 110px;
+    width: 100%;
+    display: flex;               
+    justify-content: center;     
+    align-items: center;  
+}
