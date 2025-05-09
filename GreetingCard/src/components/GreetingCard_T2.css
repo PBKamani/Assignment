@@ -1,0 +1,57 @@
+.card {
+    width: 90%;
+    max-width: 390px;
+    margin: 30px auto;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+    font-family: 'Segoe UI', sans-serif;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  }
+  
+  /* Background colors based on timeOfDay */
+  .morning {
+    background-color: #ffcb82; /* light yellow */
+  }
+  
+  .afternoon {
+    background-color: #f8ff6c; /* light orange */
+  }
+  
+  .evening {
+    background-color: #a7d8ff; /* light blue */
+  }
+  
+  .dropdowns {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+  }
+  
+  label {
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    font-size: 14px;
+  }
+  
+  select {
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 8px;
+    border: 1px solid #aaa;
+  }
+
+  .getmsg{
+    color: blue;
+  }
+  .User-Type{
+    color: rgb(0, 0, 0);
+  }
+  .t-o-d{
+    color: black;
+  }
+  .tod{
+    color: rgb(255, 0, 0);
+  }
